@@ -7,7 +7,6 @@ I'm a passionate **Software Engineer** with a strong focus on **.NET** and **mod
 - **Backend Development**: Specializing in **.NET Core**, **C#**, and **SQL Server** for high-performance APIs and services.
 - **CI/CD & DevOps**: Creating efficient pipelines with **Azure DevOps**, **Docker**, and **Nexus** for automated deployments and cloud-based architectures.
 - **Microservices**: Designing **scalable, decoupled** systems with **Docker** and **Kubernetes** for high availability and resilience.
-- **Frontend Development**: Crafting responsive websites and web apps using **React**, **JavaScript**, and **CSS** to provide smooth user experiences.
 - **Design Patterns & Architecture**: Applying **Domain-Driven Design (DDD)**, **CQRS**, and **Event-Driven Architecture (EDA)** to solve complex business problems.
 
 ## 🛠 Technologies & Tools
