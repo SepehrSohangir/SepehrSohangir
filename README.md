@@ -25,10 +25,23 @@ I'm a passionate **Software Engineer** with a strong focus on **.NET** and **mod
   ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-  ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+
 
 - **Tools & Platforms**:  
-  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) 
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+  ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-FF1F20?style=for-the-badge&logo=grafana&logoColor=white)
+
+## 🔧 APIs & Query Languages
+
+- **REST APIs**: Representing scalable, stateless web services for building robust systems.  
+  ![REST API](https://img.shields.io/badge/REST_API-67C2EF?style=for-the-badge&logo=rest&logoColor=white)
+
+- **GraphQL**: A modern query language for APIs, enabling flexible and efficient data fetching.  
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ## 🌍 Let's Connect
 
