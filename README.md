@@ -1,4 +1,4 @@
-![Welcome To Sepehr's Bio. An Aspiring .NET Developer](https://github.com/SepehrSohangir/SepehrSohangir/blob/main/Hi%2C_I'm_SepehrTurning_Ideas_into_code...%20(1).png)
+![Welcome To Sepehr's Bio. An Aspiring .NET Developer](https://github.com/SepehrSohangir/SepehrSohangir/blob/main/Hi%2C_I'm_SepehrTurning_Ideas_into_code...%20(2).png)
 
 I'm a passionate **Software Engineer** with a strong focus on **.NET** and **modern software architecture**. My journey through software development spans a wide array of domains, from building scalable APIs to optimizing CI/CD pipelines. I’m constantly refining my skills and exploring new technologies to build better solutions for today’s challenges.
 
