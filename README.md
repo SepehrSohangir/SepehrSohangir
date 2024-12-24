@@ -48,7 +48,7 @@ I'm a passionate **Software Engineer** with a strong focus on **.NET** and **mod
 
 ## 🌍 Let's Connect
 
-- **LinkedIn**: [Sepehr's LinkedIn](https://www.linkedin.com/in/sepehrsohangir)
+- **LinkedIn**: [Sepehr's LinkedIn](https://www.linkedin.com/in/sepehr-sohangir)
 ---
 
 Feel free to follow me, star my repositories, or reach out if you'd like to collaborate on a project! 🎯
